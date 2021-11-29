@@ -19,4 +19,5 @@
 </div>
 
 [![Action2thefuture's github stats](https://github-readme-stats.vercel.app/api?username=Action2thefuture)](https://github.com/Action2thefutuer/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Action2thefuturea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact)](https://github.com/Action2thefuture/github-readme-stats)
