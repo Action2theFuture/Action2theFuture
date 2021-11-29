@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hi, GoodDay 🛸 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faction2thefuture&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
@@ -15,8 +13,6 @@
 #### Connection 🛸
 
 <a href="https://velog.io/@action2thefuture" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://action2thefuture.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> <a href="https://dnstks0204@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-
-</div>
 
 [![Action2thefuture's github stats](https://github-readme-stats.vercel.app/api?username=Action2thefuture&theme=dark)](https://github.com/Action2thefutuer/github-readme-stats)
 
