@@ -12,4 +12,4 @@
   
 [![Action2thefuture's github stats](https://github-readme-stats-neon-zeta.vercel.app/api?username=Action2thefuture&theme=dark)](https://github.com/Action2thefuture/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-neon-zeta.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark&langs_count=10)](https://github.com/Action2thefuture/github-readme-stats)
+[![Top Langs](https://github-readme-stats-neon-zeta.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark&langs_count=7)](https://github.com/Action2thefuture/github-readme-stats)
