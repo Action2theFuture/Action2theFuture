@@ -10,6 +10,6 @@
 <a href="https://action2thefuture.space/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> <a href="https://dnstks0204@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
   
   
-[![Action2thefuture's github stats](https://github-readme-stats-pink-six.vercel.app/api?username=Action2thefuture&theme=dark)](https://github.com/Action2thefuture/github-readme-stats)
+[![Action2thefuture's github stats](https://github-readme-stats-neon-zeta.vercel.app/api?username=Action2thefuture&theme=dark)](https://github.com/Action2thefuture/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-pink-six.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark)](https://github.com/Action2thefuture/github-readme-stats)
+[![Top Langs](https://github-readme-stats-neon-zeta.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark)](https://github.com/Action2thefuture/github-readme-stats)
