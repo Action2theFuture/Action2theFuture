@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats-neon-zeta.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark&langs_count=7)](https://github.com/Action2thefuture/github-readme-stats)
 
-![snake gif dark](https://github.com/Action2theFuture/Action2theFuture/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
+![snake gif dark](https://github.com/Action2theFuture/Action2theFuture/blob/output/github-contribution-grid-snake.svg)
