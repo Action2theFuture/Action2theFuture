@@ -20,6 +20,6 @@
 
 <div align="center">
 
-  ![snake gif](https://github.com/Action2theFuture/Action2theFuture/blob/output/github-contribution-grid-snake.svg)
-  
+  ![snake](https://github.com/Action2theFuture/Action2theFuture/blob/output/github-snake-dark.svg)
+    
 </div>
