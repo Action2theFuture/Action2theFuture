@@ -10,10 +10,10 @@
 
 <div align="center">
     <a href="#">
-      <img alt="Action2thefuture's github stats" src="https://github-readme-stats-neon-zeta.vercel.app/api?username=Action2thefuture&theme=dark" height="200"/>
+      <img alt="Action2thefuture's github stats" src="https://github-readme-stats-neon-zeta.vercel.app/api?username=Action2thefuture&theme=dark&hide_border=true&&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="200" width="500"/>
     </a>
     <a href="#">
-      <img alt="Action2thefuture's Top Languages" src="https://github-readme-stats-neon-zeta.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark&langs_count=7" height="200"/>
+      <img alt="Action2thefuture's Top Languages" src="https://github-readme-stats-neon-zeta.vercel.app/api/top-langs/?username=Action2thefuture&layout=compact&theme=dark&langs_count=7&hide_border=true&bg_color=0D1117" height="200" width="350"/>
     </a>
     <br/>
  </div>
