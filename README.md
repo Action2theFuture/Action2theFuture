@@ -1,5 +1,5 @@
 ## Hi, GoodDay 🛸 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faction2thefuture&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://action2thefuture.space/" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a> <a href="https://action2thefuture@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+<a href="https://action2thefuture@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
 <h3>I’m currently learning 🎯</h3>
 <div>
@@ -20,7 +20,10 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-%E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/grafana-%23F46801.svg?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=flat-square&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+<img src="https://img.shields.io/badge/-Logstash-A9A9A9?style=flat-square&logo=Logstash&logoColor=005571"/>
+<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch"/>
+<img src="https://img.shields.io/badge/Kibana-005571?&style=flat-square&logo=Kibana&logoColor=white"/>
 </div>
 
 </br>
